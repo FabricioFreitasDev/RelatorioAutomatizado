@@ -1,9 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# ### Passo 1 - Importar Arquivos e Bibliotecas
 
-# In[13]:
 
 
 #IMPORTANDO AS BIBLIOTECAS #
@@ -267,81 +263,6 @@ mail.Send()
 print('E-Mail da Diretoria Enviado com Sucesso!!!')
 
 
-# ### Passo 2 - Definir Criar uma Tabela para cada Loja e Definir o dia do Indicador
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# ### Passo 3 - Salvar a planilha na pasta de backup
-
-# In[ ]:
-
-
-
-
-
-# ### Passo 4 - Calcular o indicador para 1 loja
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# ### Passo 5 - Enviar por e-mail para o gerente
-
-# In[ ]:
-
-
-
-
-
-# ### Passo 6 - Automatizar todas as lojas
-
-# In[ ]:
-
-
-
-
-
-# ### Passo 7 - Criar ranking para diretoria
-
-# In[ ]:
-
-
-
-
-
-# ### Passo 8 - Enviar e-mail para diretoria
-
-# In[ ]:
 
 
 
